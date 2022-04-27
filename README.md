@@ -22,9 +22,9 @@ Time de pessoas que cuida da comunidade.
 
 ## Nossas redes sociais
 
-- [Twitter](https://twitter.com/perifacode)
-- [Facebook](https://facebook.com/perifacode)
-- [Instagram](https://www.instagram.com/perifacode)
+- [Youtube](https://youtube.com/soujava?)
+- [Twitter](https://twitter.com/?)
+- [Telegram](https://telegram.com/?)
 
 ## Organização
 
