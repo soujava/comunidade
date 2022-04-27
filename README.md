@@ -35,8 +35,8 @@ Encontre aqui a lista mais atualizada de eventos do SOUJava e outros eventos rel
 |23/02/2022 | [Tech Radar: O que é e como usar  🏢 Office Hours 🕑](https://www.meetup.com/pt-BR/SouJava/events/284200543/)| [Otávio Santana](https://twitter.com/otaviojava)
 | 10/02/2022 |[Usando WireMock para acelerar Testes Unitários e Integrados](https://www.meetup.com/pt-BR/SouJava/events/283531417/) |  Thomas da Costa
 |27/01/2022 | [LGPD, Generics e Cadastros: O que eles têm em comum?](https://www.meetup.com/pt-BR/SouJava/events/283370206/) | [Ana Sá](https://www.linkedin.com/in/anna-s%C3%A1-21449667/)
-|
 | 25/01/2022   | [The five skills you must master to be outstanding as a software engineer](https://www.meetup.com/pt-BR/SouJava/events/283467757/) | [Otávio Santana](https://twitter.com/otaviojava) e [Karina Varela](https://twitter.com/kvarel4) |
+||| 
 
 ## Contribuições
 
