@@ -1,19 +1,25 @@
 # Comunidade SOUJava
 
+<p align="center">
+    <img src="assets/soujava.png" width="300px" alt="SouJava Logo">
+</p>
+
 Desenvolvedores, arquitetos, usuários e todos aqueles interessados no contexto acerca do Java e tudo mais que o cerca, este é o local pra você.
 
 Aqui você fica sabendo de todos os eventos e talks presenciais e virtuais promovidos pela comunidade SOUJava e até mesmo de eventos anunciados por outros participantes da comunidade que contribuem compartilhando conhecimento nos mais diversos locais.
 
 ## O que você encontra aqui:
-* [Agenda de eventos](#agenda-de-eventos)
-    + [Eventos sobre Java](#eventos-sobre-java)
-        - [Acontecendo em 2022](#acontecendo-em-2022)
-* [Contribuições](#contribui--es)
-    + [Quero fazer uma apresentação no SOUJava!](#quero-fazer-uma-apresenta--o-no-soujava-)
-    + [Como adiciono eventos nesta agenda?](#como-adiciono-eventos-nesta-agenda-)
-* [Sobre a comunidade](#sobre-a-comunidade)
-  * [O que é o SOUJava](#whatis)
-  * [Nossas redes sociais](#nossas-redes-sociais) 
+- [Comunidade SOUJava](#comunidade-soujava)
+  - [O que você encontra aqui:](#o-que-você-encontra-aqui)
+  - [Agenda de eventos](#agenda-de-eventos)
+    - [Eventos sobre Java](#eventos-sobre-java)
+      - [Acontecendo em 2022](#acontecendo-em-2022)
+  - [Contribuições](#contribuições)
+    - [Quero fazer uma apresentação no SOUJava!](#quero-fazer-uma-apresentação-no-soujava)
+    - [Como adiciono eventos nesta agenda?](#como-adiciono-eventos-nesta-agenda)
+  - [Sobre a comunidade](#sobre-a-comunidade)
+    - [O que é o SOUJava](#o-que-é-o-soujava)
+    - [Nossas redes sociais](#nossas-redes-sociais)
 
 ## Agenda de eventos
 
