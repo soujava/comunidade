@@ -1,47 +1,55 @@
 ---
 name: Call for papers
 about: Template para a criação de call for papers.
-title: "[C4P] - Título da palestra"
+title: "[C4P] - Talk Title / Título da palestra"
 labels: ''
 assignees: ''
 
 ---
 
+### Talk Title / Título da palestra:
 ### Talk Abstract / Descrição da palestra:
 
-<!-- Escreva nesta sessão uma breve introdução sobre o tema da sua palestra, quais assuntos, tópicos e informações serão abordados/passados para o público e como você espera que as pessoas saiam da sua apresentação (empolgadas, motivadas, curiosas, mais sábias, etc). -->
+<!--
+[EN-US]
+Write in this session a brief introduction about the topic of your talk, what subjects, topics and information will be addressed/passed on to the audience and how you expect people to come out of your presentation (excited, motivated, curious, wiser, etc). 
 
-### Speaker/Palestrante:
+[PT-BR]
+Escreva nesta sessão uma breve introdução sobre o tema da sua palestra, quais assuntos, tópicos e informações serão abordados/passados para o público e como você espera que as pessoas saiam da sua apresentação (empolgadas, motivadas, curiosas, mais sábias, etc). 
+-->
+### Talk idiom / Idioma da palestra:
 
-<!-- Escreva aqui o(s) palestrante(s) -->
+<!--
+[EN-US] Describe here the talk's idiom
+ 
+[PT-BR] Informe o idioma da palestra
+-->
+### Speaker / Palestrante:
 
-#### Nome/Name:
-<!-- informe o nome do palestrante -->
+<!-- Describe here the speaker's name / Escreva aqui o(s) palestrante(s) -->
 
 #### Bio:
-<!-- Informe a bio do palestrante -->
+<!-- Describe here the speaker's bio / Informe a bio do palestrante -->
 
-#### Dados de contato/Contact data:
-<!-- Escreva aqui os dados de contato do palestrante -->
+#### Social media/Mídias sociais:
+<!-- Describe here the speaker's social media / Escreva aqui os dados de contato do palestrante -->
 
-<hr/>
+### Talk difficult Level / Nível da palestra
 
-### Nível técnico da palestra/Talk Technical Level
-
-<!-- Basta colocar um x dentro do quadradinho das pessoas que mais se beneficiariam com o seu conteúdo. -->
+<!-- Choose the levels that "best" fit with this talk / Escolha o nível que melhor se encaixa com sua palestra. -->
 
 - [ ] Iniciante/Beginner
 - [ ] Intermediário/Intermediate
 - [ ] Avançado/Advanced
 
-### Tipo de palestra/Talk type
+### Talk format / Tipo de palestra 
 
-<!-- Basta colocar um x dentro do quadradinho do tempo de duração da sua apresentação. -->
-- [ ] Apresentação/Presentation  
+<!-- Choose the talk's format. You may choose more than one / Escolha o formato da palestra (pode escolher mais de um). -->
+- [ ] Presentation/Apresentação  
 - [ ] Workshop
 
-### Duração/Duration
-- [ ] até/about 00:06
-- [ ] até/about 00:25
-- [ ] até/about 01:00
+### Duration / Duração
+- [ ] até/about 6 min
+- [ ] até/about 25 min
+- [ ] até/about 60 min
 - [ ] Outro/Other:
