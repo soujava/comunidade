@@ -15,11 +15,6 @@ Você pode se candidatar para fazer uma palestra, workshop ou qualquer coisa (po
 
 Acesse este tópico do nosso grupo para entender como participar: [Como submeter sua palestra ](https://github.com/dearrudam/comunidade/discussions/1)
 
-## Organização
-
-Time de pessoas que cuida da comunidade.
-
-
 ## Nossas redes sociais
 
 Grupo oficial da comunidade SouJava
