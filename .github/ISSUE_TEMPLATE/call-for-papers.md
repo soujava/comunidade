@@ -45,7 +45,9 @@ assignees: ''
 - [ ] Workshop
 
 ### Duration / Duração
-- [ ] até/about 6 min
-- [ ] até/about 25 min
-- [ ] até/about 60 min
-- [ ] Outro/Other:
+<!-- [EN-US] describe here the talk's duration -->
+<!-- [PT-BR] Informe aqui a duração da palestra -->
+- [ ] 6 min
+- [ ] 30 min
+- [ ] 60 min
+- [ ] Other/Outro: 
