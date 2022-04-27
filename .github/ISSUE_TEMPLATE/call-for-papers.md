@@ -31,7 +31,7 @@ assignees: ''
 <!-- Basta colocar um x dentro do quadradinho das pessoas que mais se beneficiariam com o seu conteúdo. -->
 
 - [ ] Iniciante/Beginner
-- [ ] Intermediário/Intermedian
+- [ ] Intermediário/Intermediate
 - [ ] Avançado/Advanced
 
 ### Tipo de palestra/Talk type
