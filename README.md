@@ -22,9 +22,12 @@ Time de pessoas que cuida da comunidade.
 
 ## Nossas redes sociais
 
-- [Youtube](https://youtube.com/soujava?)
-- [Twitter](https://twitter.com/?)
-- [Telegram](https://telegram.com/?)
+Grupo oficial da comunidade SouJava
+- [Site](http://SouJava.org.br)
+- [Slack](http://javadevbr.herokuapp.com/)
+- [Youtube](https://youtube.com/soujava)
+- [Twitter](https://twitter.com/soujava)
+- [Telegram](https://t.me/soujavabr)
 
 ## Organização
 
