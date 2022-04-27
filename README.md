@@ -1,7 +1,7 @@
 # Comunidade SOUJava
 
 <p align="center">
-    <img src="assets/soujava.png" width="300px" alt="SouJava Logo">
+    <img src="assets/logo/soujava.png" width="300px" alt="SouJava Logo">
 </p>
 
 Desenvolvedores, arquitetos, usuários e todos aqueles interessados no contexto acerca do Java e tudo mais que o cerca, este é o local pra você.
