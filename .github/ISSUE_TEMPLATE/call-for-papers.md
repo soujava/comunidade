@@ -1,8 +1,8 @@
-----
+---
 name: Call for papers
 about: Template para a criação de call for papers.
 title: "[C4P] - Título da palestra"
-labels: C4P
+labels: ''
 assignees: ''
 
 ---
