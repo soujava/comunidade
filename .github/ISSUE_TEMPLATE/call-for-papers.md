@@ -7,46 +7,41 @@ assignees: ''
 
 ---
 
-### Descrição da palestra
+### Talk Abstract / Descrição da palestra:
 
 <!-- Escreva nesta sessão uma breve introdução sobre o tema da sua palestra, quais assuntos, tópicos e informações serão abordados/passados para o público e como você espera que as pessoas saiam da sua apresentação (empolgadas, motivadas, curiosas, mais sábias, etc). -->
 
-### Palestrantes:
+### Speaker/Palestrante:
 
 <!-- Escreva aqui o(s) palestrante(s) -->
 
-#### Nome:
+#### Nome/Name:
 <!-- informe o nome do palestrante -->
 
 #### Bio:
 <!-- Informe a bio do palestrante -->
 
-#### Dados de contato:
+#### Dados de contato/Contact data:
 <!-- Escreva aqui os dados de contato do palestrante -->
 
 <hr/>
 
-### Descrição da palestra
-
-<!-- Escreva nesta sessão uma breve introdução sobre o tema da sua palestra, quais assuntos, tópicos e informações serão abordados/passados para o público e como você espera que as pessoas saiam da sua apresentação (empolgadas, motivadas, curiosas, mais sábias, etc). -->
-
-### Nível técnico da palestra
+### Nível técnico da palestra/Talk Technical Level
 
 <!-- Basta colocar um x dentro do quadradinho das pessoas que mais se beneficiariam com o seu conteúdo. -->
 
-- [ ] Iniciante
-- [ ] Intermediário
-- [ ] Avançado
+- [ ] Iniciante/Beginner
+- [ ] Intermediário/Intermedian
+- [ ] Avançado/Advanced
 
-### Tipo de palestra
+### Tipo de palestra/Talk type
 
 <!-- Basta colocar um x dentro do quadradinho do tempo de duração da sua apresentação. -->
-- [ ] Talk / Apresentação 
+- [ ] Apresentação/Presentation  
 - [ ] Workshop
 
-### Duração
-- [ ] 5 minutos a 6 min
-- [ ] até 25 min
-- [ ] até 1 hora
-- [ ] mais de 1 hora
-- [ ] Outro:
+### Duração/Duration
+- [ ] até/about 00:06
+- [ ] até/about 00:25
+- [ ] até/about 01:00
+- [ ] Outro/Other:
