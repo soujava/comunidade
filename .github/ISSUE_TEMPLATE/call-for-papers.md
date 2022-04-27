@@ -12,14 +12,8 @@ assignees: ''
 <!-- [PT-BR] Informe o título da palestra-->
 ### Talk Abstract / Descrição da palestra:
 
-<!--
-[EN-US]
-Write in this session a brief introduction about the topic of your talk, what subjects, topics and information will be addressed/passed on to the audience and how you expect people to come out of your presentation (excited, motivated, curious, wiser, etc). 
--->
-<!--
-[PT-BR]
-Escreva nesta sessão uma breve introdução sobre o tema da sua palestra, quais assuntos, tópicos e informações serão abordados/passados para o público e como você espera que as pessoas saiam da sua apresentação (empolgadas, motivadas, curiosas, mais sábias, etc). 
--->
+<!-- [EN-US] Describe here the talk's abstract. -->
+<!-- [PT-BR] Informe aqui uma descrição resumida sobre a palestra-->
 ### Talk idiom / Idioma da palestra:
 <!-- [EN-US] Describe here the talk's idiom -->
 <!-- [PT-BR] Informe o idioma da palestra-->
