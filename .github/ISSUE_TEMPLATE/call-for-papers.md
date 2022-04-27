@@ -51,3 +51,7 @@ assignees: ''
 - [ ] 30 min
 - [ ] 60 min
 - [ ] Other/Outro: 
+
+### Talk date/time intentions / Intenções de data/hora da palestra:
+<!-- [EN-US] describe here the talk's date/time intentions -->
+<!-- [PT-BR] Informe as datas e o horário para a realização da palestra -->
