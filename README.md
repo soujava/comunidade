@@ -27,7 +27,7 @@ Encontre aqui a lista mais atualizada de eventos do SOUJava e outros eventos rel
 | ----------- | ----------- | ----------- |
 | :soon: | More to come... :)  | :soon: |
 |20/04/2022| [SouJava Talks - To Java 18 and Beyond!](https://www.meetup.com/pt-BR/SouJava/events/285164398/)| [Billy Korando](https://twitter.com/BillyKorando)
-| 13/04/2022| [https://www.meetup.com/pt-BR/SouJava/events/284619852/](https://www.meetup.com/pt-BR/SouJava/events/284619852/) | A N M Bazlur Rahman, Eduardo Velasques, Gabriel Silva Andrade, Luiz Felipe Cruz Borges, Jocimar Neres, Gabriel Bahia, Fernando Boaglio, Sergio Lopes, Karina Varela, Bruno Souza, Gabriela Moraes, Maximilian Arruda
+| 13/04/2022| [SouJava - Lightning Talks 2nd Edition](https://www.meetup.com/pt-BR/SouJava/events/284619852/) | A N M Bazlur Rahman, Eduardo Velasques, Gabriel Silva Andrade, Luiz Felipe Cruz Borges, Jocimar Neres, Gabriel Bahia, Fernando Boaglio, Sergio Lopes, Karina Varela, Bruno Souza, Gabriela Moraes, Maximilian Arruda
 |24/03/2022 | [Spring Boot e Java com S3, SQS, SNS,Secrets Manager,Parameter Store e LocalStack](https://www.meetup.com/pt-BR/SouJava/events/284361473/) | Thomas da Costa
 | 16/03/2022 | [The five skills you must master to be outstanding as a software engineer](https://www.meetup.com/pt-BR/SouJava/events/284592154/)| [Otávio Santana](https://twitter.com/otaviojava) e [Karina Varela](https://twitter.com/kvarel4)
 |02/03/2022 | [Loom & Coroutines, o Java na luta do mercado com as linguagens funcionais](https://www.meetup.com/pt-BR/SouJava/events/284044852/)| [Igor de Souza](https://t.me/igfasouza)
