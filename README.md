@@ -53,10 +53,9 @@ Excelente, a comunidade fica feliz em receber palestrantes experientes e inician
 Você pode se candidatar para fazer uma palestra, workshop ou qualquer coisa (pois a comunidade é sua também).
 
 **Quick guide:**
-1. Abra uma nova issue [aqui](https://github.com/dearrudam/comunidade/issues);
-2. Um template vai facilitar a submissão. Será necessário enviar título, descrição, ideias de quando você pretende apresentar, seu nome, minibio e link para uma foto bem legal;
-3. Um host entrará em contato em breve para confirmar a talk;
-4. No dia e hora combinados, basta entrar no link que será enviado para você e dar seu show!
+1. Submeta o formulário Call for papers do SouJava [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdLEyQH6ztAAQ2-lclaeBMymwWtA_Yx0lkiF6gPZyYSTNZXjw/viewform);
+2. Um host entrará em contato em breve para confirmar a talk;
+3. No dia e hora combinados, basta entrar no link que será enviado para você e dar seu show!
 
 Se precisar de mais detalhes, dê uma olhada [neste tópico de discussão](https://github.com/dearrudam/comunidade/discussions/1) e fique a vontade para mandar perguntas e sugestões.
 
@@ -79,3 +78,4 @@ Medias oficiais da comunidade SOUJava:
 - [Youtube](https://youtube.com/soujava)
 - [Twitter](https://twitter.com/soujava)
 - [Telegram](https://t.me/soujavabr)
+- [Discord](https://discord.gg/dnGCCjTfys)
