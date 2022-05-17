@@ -32,6 +32,7 @@ Encontre aqui a lista mais atualizada de eventos do SOUJava e outros eventos rel
 | Data      | Título        | Speaker |
 | ----------- | ----------- | ----------- |
 | :soon: | More to come... :)  | :soon: |
+|31/05/2022| [Java + AWS Lambda: Como desenvolver aplicações serverless com LocalStack](https://www.meetup.com/SouJava/events/285955559/)  | [Thomas da Costa](https://www.linkedin.com/in/thomasdacosta/) |
 |20/04/2022| [SouJava Talks - To Java 18 and Beyond!](https://www.meetup.com/pt-BR/SouJava/events/285164398/)| [Billy Korando](https://twitter.com/BillyKorando)
 | 13/04/2022| [SouJava - Lightning Talks 2nd Edition](https://www.meetup.com/pt-BR/SouJava/events/284619852/) | A N M Bazlur Rahman, Eduardo Velasques, Gabriel Silva Andrade, Luiz Felipe Cruz Borges, Jocimar Neres, Gabriel Bahia, Fernando Boaglio, Sergio Lopes, Karina Varela, Bruno Souza, Gabriela Moraes, Maximilian Arruda
 |24/03/2022 | [Spring Boot e Java com S3, SQS, SNS,Secrets Manager,Parameter Store e LocalStack](https://www.meetup.com/pt-BR/SouJava/events/284361473/) | Thomas da Costa
