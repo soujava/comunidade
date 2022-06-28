@@ -32,6 +32,7 @@ Encontre aqui a lista mais atualizada de eventos do SOUJava e outros eventos rel
 | Data      | Título        | Speaker |
 | ----------- | ----------- | ----------- |
 | :soon: | More to come... :)  | :soon: |
+|06/07/2022| [SouJava Talks - Growing the Open Source Community, the Open Source way](https://www.meetup.com/soujava/events/286857037/)  | [Nikita Koselev](https://twitter.com/NikitaKoselev) |
 |21/06/2022| [SouJava Talks - The JBang Way](https://www.meetup.com/SouJava/events/286381801/)  | [Max Rydahl Andersen](https://twitter.com/maxandersen) |
 |15/06/2022| [SouJava Talks - Creating a Million Virtual Threads Using Project Loom](https://www.meetup.com/SouJava/events/286013245/)  | [A N M Bazlur Rahman](https://twitter.com/bazlur_rahman) |
 |31/05/2022| [Java + AWS Lambda: Como desenvolver aplicações serverless com LocalStack](https://www.meetup.com/SouJava/events/285955559/)  | [Thomas da Costa](https://www.linkedin.com/in/thomasdacosta/) |
