@@ -82,4 +82,4 @@ Medias oficiais da comunidade SOUJava:
 - [Youtube](https://youtube.com/soujava)
 - [Twitter](https://twitter.com/soujava)
 - [Telegram](https://t.me/soujavabr)
-- [Discord](https://discord.gg/dnGCCjTfys)
+- [Discord](https://discord.gg/n9PwVtxsTN)
