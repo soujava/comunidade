@@ -21,13 +21,10 @@ Aqui você fica sabendo de todos os eventos e talks presenciais e virtuais promo
     - [O que é o SOUJava](#o-que-é-o-soujava)
     - [Nossas redes sociais](#nossas-redes-sociais)
 
-## Agenda de eventos
 
-Encontre aqui a lista mais atualizada de eventos do SOUJava e outros eventos relacionados a Java no Brasil. 
+#### Talks em 2022
 
-### Eventos sobre Java
-
-#### Acontecendo em 2022
+Acompanhe os próximos eventos/talks do SouJava no [Meetup](https://www.meetup.com/soujava/) e também nas [nossas redes sociais](#nossas-redes-sociais).
 
 | Data      | Título        | Speaker |
 | ----------- | ----------- | ----------- |
