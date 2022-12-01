@@ -32,6 +32,8 @@ Encontre aqui a lista mais atualizada de eventos do SOUJava e outros eventos rel
 | Data      | Título        | Speaker |
 | ----------- | ----------- | ----------- |
 | :soon: | More to come... :)  | :soon: |
+|07/11/2022| [SouJava Talks - Criando CLIs com Java e Quarkus](https://www.meetup.com/soujava/events/289574718/)  | [Julio Faerman](https://twitter.com/faermanj) |
+|26/09/2022| [SouJava Talks - MapStruct uma pequena ferramenta que pode te ajudar muito](https://www.meetup.com/soujava/events/288727720/)  | [Claudia Rejane](https://www.linkedin.com/in/claudia-rejane-26906879/) |
 |06/07/2022| [SouJava Talks - Growing the Open Source Community, the Open Source way](https://www.meetup.com/soujava/events/286857037/)  | [Nikita Koselev](https://twitter.com/NikitaKoselev) |
 |21/06/2022| [SouJava Talks - The JBang Way](https://www.meetup.com/SouJava/events/286381801/)  | [Max Rydahl Andersen](https://twitter.com/maxandersen) |
 |15/06/2022| [SouJava Talks - Creating a Million Virtual Threads Using Project Loom](https://www.meetup.com/SouJava/events/286013245/)  | [A N M Bazlur Rahman](https://twitter.com/bazlur_rahman) |
@@ -57,7 +59,7 @@ Excelente, a comunidade fica feliz em receber palestrantes experientes e inician
 Você pode se candidatar para fazer uma palestra, workshop ou qualquer coisa (pois a comunidade é sua também).
 
 **Quick guide:**
-1. Submeta o formulário Call for papers do SouJava [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdLEyQH6ztAAQ2-lclaeBMymwWtA_Yx0lkiF6gPZyYSTNZXjw/viewform);
+1. Submeta o formulário Call for papers do SouJava [aqui](https://forms.gle/LXshTYug9KzpkcAc6);
 2. Um host entrará em contato em breve para confirmar a talk;
 3. No dia e hora combinados, basta entrar no link que será enviado para você e dar seu show!
 
