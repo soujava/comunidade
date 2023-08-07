@@ -19,6 +19,7 @@ Aqui você fica sabendo de todos os eventos e talks presenciais e virtuais promo
     - [Como adiciono eventos nesta agenda?](#como-adiciono-eventos-nesta-agenda)
   - [Sobre a comunidade](#sobre-a-comunidade)
     - [O que é o SOUJava](#o-que-é-o-soujava)
+    - [Seja um Associado Anual do SouJava](#seja-um-associado-anual-do-soujava)
     - [Nossas redes sociais](#nossas-redes-sociais)
 
 
@@ -72,6 +73,19 @@ O processo é open:
 ### [O que é o SOUJava](#whatis)
 
 O SouJava é um grupo de usuários, formado por desenvolvedores e evangelistas da tecnologia Java no Brasil, e tem como objetivo fortalecer, expandir e profissionalizar o uso de Java no país. O SouJava é um dos mais ativos e importantes grupos de usuários do mundo, e realiza diversas atividades no Brasil, e ajuda na organização do movimento Java mundial. O SouJava mantém reuniões presenciais, eventos e uma presença online, ajudando a comunidade Java brasileira a aplicar a tecnologia Java em projetos reais.
+
+### [Seja um Associado Anual do SouJava](#apoiador)
+
+Desde sua fundação em 1998, o SouJava ajuda desenvolvedores Java como você a se profissionalizar, buscar as melhores oportunidades, e se desenvolver no eco-sistema de desenvolvimento de software mundial.
+
+Ao se tornar um Associado Anual do SouJava você terá:
+ - Acesso gratuito ao evento anual online do SouJava;
+ - Descontos nos eventos pagos presenciais do SouJava;
+ - Desconto na [lojinha do SouJava](https://loja.soujava.org.br/) (camisetas, canecas, etc...);
+ - Mentorias de Carreira Trimestrais;
+ - Workshops exclusivos em Português e Inglês;
+ 
+Clique [aqui](https://soujava.orbitlearn.online/) para ser um associado anual do SouJava
 
 ### Nossas redes sociais
 
