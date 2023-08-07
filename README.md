@@ -3,7 +3,6 @@
 <p align="center">
     <img src="assets/logo/soujava.png" width="300px" alt="SouJava Logo">
 </p>
-
 Desenvolvedores, arquitetos, usuários e todos aqueles interessados no contexto acerca do Java e tudo mais que o cerca, este é o local pra você.
 
 Aqui você fica sabendo de todos os eventos e talks presenciais e virtuais promovidos pela comunidade SOUJava e até mesmo de eventos anunciados por outros participantes da comunidade que contribuem compartilhando conhecimento nos mais diversos locais.
@@ -73,6 +72,16 @@ O processo é open:
 ### [O que é o SOUJava](#whatis)
 
 O SouJava é um grupo de usuários, formado por desenvolvedores e evangelistas da tecnologia Java no Brasil, e tem como objetivo fortalecer, expandir e profissionalizar o uso de Java no país. O SouJava é um dos mais ativos e importantes grupos de usuários do mundo, e realiza diversas atividades no Brasil, e ajuda na organização do movimento Java mundial. O SouJava mantém reuniões presenciais, eventos e uma presença online, ajudando a comunidade Java brasileira a aplicar a tecnologia Java em projetos reais.
+
+A SouJava foi fundada em setembro de 1999 por Bruno Souza (JavaMan) e Einar Saukas. O nome (também escrito como SOUJava) é um acrônimo para "Sociedade de Usuarios Java", além de ser significar também "Eu sou Java".
+
+Em 28 de novembro de 2004, o SouJava adquiriu o status de Organização Não-Governamental ao atingir quase 18.000 membros e foi reconhecido como o maior Grupo de Usuários Java do mundo.
+
+Em 2011, o SouJava tornou-se o primeiro Grupo de Usuários Java indicado para o Comitê Executivo do Java Community Process. No ano seguinte, foi premiado como Java Community Process Member/Participant of the Year.
+
+Ao longo dos anos, o SouJava organizou várias conferências sobre Java no Brasil. É também o co-criador, junto com o London Java User Group, do programa "Adote um JSR", um esforço para encorajar os membros do JUG e a comunidade Java em geral a se envolverem em JSRs.
+
+Atualmente, o SouJava está sediada em São Paulo, com filiais em Campinas, Rio de Janeiro e Brasília.
 
 ### [Seja um Associado Anual do SouJava](#apoiador)
 
