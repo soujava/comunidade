@@ -65,7 +65,7 @@ Ao se tornar um Associado Anual do SouJava você terá:
  - Mentorias de Carreira Trimestrais;
  - Workshops exclusivos em Português e Inglês;
  
-Clique [aqui](https://soujava.orbitlearn.online/) para ser um associado anual do SouJava
+Clique [aqui](https://soujava.orbitlearn.online/) e seja um associado anual do SouJava!
 
 ### Nossas redes sociais
 
