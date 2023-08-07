@@ -10,8 +10,7 @@ Aqui você fica sabendo de todos os eventos e talks presenciais e virtuais promo
 ## O que você encontra aqui:
 - [Eventos SouJava](#eventos-soujava)
 - [Contribuições](#contribuições)
-- [Quero fazer uma apresentação no SOUJava!](#quero-fazer-uma-apresentação-no-soujava)
-- [Como adiciono eventos nesta agenda?](#como-adiciono-eventos-nesta-agenda)
+    - [Quero fazer uma apresentação no SOUJava!](#quero-fazer-uma-apresentação-no-soujava)
 - [Sobre a comunidade](#sobre-a-comunidade)
 - [O que é o SOUJava](#o-que-é-o-soujava)
 - [Seja um Associado Anual do SouJava](#seja-um-associado-anual-do-soujava)
@@ -38,11 +37,6 @@ Você pode se candidatar para fazer uma palestra, workshop ou qualquer coisa (po
 3. No dia e hora combinados, basta entrar no link que será enviado para você e dar seu show!
 
 Se precisar de mais detalhes, dê uma olhada [neste tópico de discussão](https://github.com/soujava/comunidade/discussions/1) e fique a vontade para mandar perguntas e sugestões.
-
-### Como adiciono eventos nesta agenda?
-
-O processo é open: 
-- fork, faça seus updates, mande um pull request :)
 
 ## Sobre a comunidade
 
